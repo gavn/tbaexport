@@ -4,7 +4,7 @@
 ; Platform:       Windows XP, Windows Vista, Windows 7
 ; Thunderbird:	  1.x, 8.x, 9.x, 10.x, 11.x, 12.x
 ; Author:         Gavin Quast (code@gavinquast.de)
-; Version:		    0.1
+; Version:	  0.1
 ;
 ; Script Function:
 ;   Export Thunderbird Addressbooks under Windows.
