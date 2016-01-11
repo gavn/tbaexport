@@ -6,7 +6,7 @@ or can be compiled as stand alone executable with the AutoIt
 Framework.
 
 This Script is licensed under the GPL v3. More information can be
-found in the LICENSE.txt file or under http://www.gnu.org/licenses/
+found under http://www.gnu.org/licenses/
 
 AutoIt is no longer under GPL. See more Information here:
 http://www.autoitscript.com/autoit3/docs/license.htm
